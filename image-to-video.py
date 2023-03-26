@@ -13,6 +13,7 @@ for filename in os.listdir(input_dir):
 
 # Sort the frames by their index in the file name
 frames.sort(key=lambda x: int(x.split('_')[-1].split('.')[0]))
+# frames.reverse()
 
 # Read the first frame to get the image dimensions
 frame = cv2.imread(frames[0])

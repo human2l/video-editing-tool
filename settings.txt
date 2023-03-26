@@ -1,0 +1,12 @@
+(8k, RAW photo:1.2),best quality, ultra high res,dramatic angle,(fluttered detailed color splashs), (illustration),(((1 girl))),(long hair),(rain:0.9),(hair ornament:1.4),there is an ancient palace beside the girl,chinese clothes,(focus on), color Ink wash painting,(color splashing),colorful splashing,(((colorful))),(sketch:0.8), Masterpiece,best quality, beautifully painted,highly detailed,(denoising:0.6),[splash ink],((ink refraction)), (beautiful detailed sky),moon,highly,detaild,(masterpiece, best quality, extremely detailed CG unity 8k wallpaper,masterpiece, best quality, ultra-detailed),(Lycoris radiata), <lora:GuoFeng3_Fix-non-ema-bf16:0.8>, <lora:koreanDollLikeness_v15:0.3>
+
+
+(missing fingers),(bad hands),(bad feets),(ugly),paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,(((simple background))),monochrome ,lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, lowres, bad anatomy, bad hands, text, error, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, ugly,pregnant,vore,duplicate,morbid,mut ilated,tran nsexual, hermaphrodite,long neck,mutated hands,poorly drawn hands,poorly drawn face,mutation,deformed,blurry,bad anatomy,bad proportions,malformed limbs,extra limbs,cloned face,disfigured,gross proportions, (((missing arms))),(((missing legs))), (((extra arms))),(((extra legs))),pubic hair, plump,bad legs,error legs,username,blurry,bad feet
+
+
+Sampling method:Euler a
+Sampling steps:20
+544*960
+CFG Scale:7
+Denoising strength:0.75
+Seed:2396274622

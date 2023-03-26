@@ -27,6 +27,7 @@ if not cap.isOpened():
 
 # Read and save each frame as an image
 frame_count = 0
+skips = 2
 while True:
     # Read the next frame from the video
     ret, frame = cap.read()
@@ -36,7 +37,7 @@ while True:
         break
 
     # Save every third frame as an image
-    if frame_count % 3 == 0:
+    if frame_count % skips == 0:
         frame_path = os.path.join(output_dir, 'frame_' + str(frame_count) + '.jpg')
         cv2.imwrite(frame_path, frame)
 
@@ -48,4 +49,4 @@ cap.release()
 cv2.destroyAllWindows()
 
 # Print the number of frames extracted
-print('Frames extracted:', frame_count // 3)
+print('Frames extracted:', frame_count // skips)
